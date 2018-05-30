@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "Make Reddit Classic Great Again",
-    "version": "1.0",
+    "version": "1.1",
   
     "description": "Hides the promoted links from the new Reddit classic interface and gives better spacing between posts",
   
